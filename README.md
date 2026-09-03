@@ -32,7 +32,6 @@ Khởi động Database (Docker):
 docker-compose up -d
 ```
 Khởi động AI Microservice (Python):
-
 ```text
 cd ai-service
 python main.py
