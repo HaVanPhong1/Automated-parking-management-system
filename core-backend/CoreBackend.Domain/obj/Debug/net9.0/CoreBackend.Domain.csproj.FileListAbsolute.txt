@@ -1,0 +1,11 @@
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Domain\bin\Debug\net9.0\CoreBackend.Domain.deps.json
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Domain\bin\Debug\net9.0\CoreBackend.Domain.dll
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Domain\bin\Debug\net9.0\CoreBackend.Domain.pdb
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Domain\obj\Debug\net9.0\CoreBackend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Domain\obj\Debug\net9.0\CoreBackend.Domain.AssemblyInfoInputs.cache
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Domain\obj\Debug\net9.0\CoreBackend.Domain.AssemblyInfo.cs
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Domain\obj\Debug\net9.0\CoreBackend.Domain.csproj.CoreCompileInputs.cache
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Domain\obj\Debug\net9.0\CoreBackend.Domain.dll
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Domain\obj\Debug\net9.0\refint\CoreBackend.Domain.dll
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Domain\obj\Debug\net9.0\CoreBackend.Domain.pdb
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Domain\obj\Debug\net9.0\ref\CoreBackend.Domain.dll

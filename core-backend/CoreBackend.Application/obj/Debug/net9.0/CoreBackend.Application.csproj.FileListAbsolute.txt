@@ -1,0 +1,15 @@
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Application\bin\Debug\net9.0\CoreBackend.Application.deps.json
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Application\bin\Debug\net9.0\CoreBackend.Application.dll
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Application\bin\Debug\net9.0\CoreBackend.Application.pdb
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Application\bin\Debug\net9.0\CoreBackend.Domain.dll
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Application\bin\Debug\net9.0\CoreBackend.Domain.pdb
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Application\obj\Debug\net9.0\CoreBackend.Application.csproj.AssemblyReference.cache
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Application\obj\Debug\net9.0\CoreBackend.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Application\obj\Debug\net9.0\CoreBackend.Application.AssemblyInfoInputs.cache
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Application\obj\Debug\net9.0\CoreBackend.Application.AssemblyInfo.cs
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Application\obj\Debug\net9.0\CoreBackend.Application.csproj.CoreCompileInputs.cache
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Application\obj\Debug\net9.0\CoreBack.DEEE1AB8.Up2Date
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Application\obj\Debug\net9.0\CoreBackend.Application.dll
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Application\obj\Debug\net9.0\refint\CoreBackend.Application.dll
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Application\obj\Debug\net9.0\CoreBackend.Application.pdb
+F:\Quan_Ly_Do_Xe\core-backend\CoreBackend.Application\obj\Debug\net9.0\ref\CoreBackend.Application.dll
