@@ -12,7 +12,7 @@ Hệ thống quản lý đỗ xe tự động tích hợp Trí tuệ nhân tạo
 
 ## 📂 Cấu trúc thư mục dự án
 
-```text
+
 Quan_Ly_Do_Xe/
 │
 ├── ai-service/              # Microservice Python nhận diện biển số (FastAPI + EasyOCR)
@@ -28,23 +28,27 @@ Bạn chỉ cần nhấp đúp chuột trực tiếp vào file start_all.bat ở
 Cách 2: Khởi động thủ công từng thành phần
 Khởi động Database (Docker):
 
-DOS
+```text
 docker-compose up -d
+```text
 Khởi động AI Microservice (Python):
 
-DOS
+```text
 cd ai-service
 python main.py
+```text
 Khởi động C# Backend:
 
-DOS
+```text
 cd core-backend/CoreBackend.WebApi
 dotnet run --launch-profile http
+```text
 Khởi động React Frontend:
 
-DOS
+```text
 cd frontend
 npm run dev
+```text
 🌐 Các cổng truy cập dịch vụ
 Frontend React: http://localhost:5173
 
