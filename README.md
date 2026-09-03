@@ -36,19 +36,19 @@ Khởi động AI Microservice (Python):
 ```text
 cd ai-service
 python main.py
-```text
+
 Khởi động C# Backend:
 
 ```text
 cd core-backend/CoreBackend.WebApi
 dotnet run --launch-profile http
-```text
+
 Khởi động React Frontend:
 
 ```text
 cd frontend
 npm run dev
-```text
+
 🌐 Các cổng truy cập dịch vụ
 Frontend React: http://localhost:5173
 
