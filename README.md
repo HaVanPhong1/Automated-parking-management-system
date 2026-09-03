@@ -14,14 +14,23 @@ Hệ thống quản lý đỗ xe tự động tích hợp Trí tuệ nhân tạo
 
 
 Quan_Ly_Do_Xe/
+
 │
+
 ├── ai-service/              # Microservice Python nhận diện biển số (FastAPI + EasyOCR)
+
 ├── core-backend/            # Backend C# .NET theo Clean Architecture
+
 ├── frontend/                # Giao diện người dùng ReactJS (Admin & Guard View)
+
 ├── sql-init/                # Script khởi tạo cơ sở dữ liệu
+
 ├── docker-compose.yml       # Cấu hình Docker cho SQL Server
+
 └── start_all.bat            # File batch tự động khởi chạy toàn bộ hệ thống
+
 ⚙️ Hướng dẫn cài đặt và chạy hệ thống
+
 Cách 1: Khởi động tự động (Khuyên dùng)
 Bạn chỉ cần nhấp đúp chuột trực tiếp vào file start_all.bat ở thư mục gốc để tự động bật Docker, AI Service, Backend và Frontend.
 
