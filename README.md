@@ -30,7 +30,7 @@ Khởi động Database (Docker):
 
 ```text
 docker-compose up -d
-```text
+
 Khởi động AI Microservice (Python):
 
 ```text
